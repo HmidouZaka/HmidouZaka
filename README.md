@@ -3,11 +3,11 @@
 
 <h1 align="center">Android Developer</h1>
 <h3 align="center">My name is Zakaria Hmidou I am native Android Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/HmidouZaka/HmidouZaka/assets/94437384/b2fa5e6e-0097-4542-b95a-29a4b5a14d9d" />
+
 
 <div align="center">
-  <img align="left" alt="Coding" width="400" src="https://github.com/HmidouZaka/HmidouZaka/assets/94437384/b2fa5e6e-0097-4542-b95a-29a4b5a14d9d" />
-  <p align="right">I am an android developer</p>
+  <img align="right" alt="Coding" width="400" src="https://github.com/HmidouZaka/HmidouZaka/assets/94437384/b2fa5e6e-0097-4542-b95a-29a4b5a14d9d" />
+  <img align="left" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*Q_yLmmRtdYWlDqWJ80ceUw.gif" />
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmidouzaka&label=Profile%20views&color=0e75b6&style=flat" alt="hmidouzaka" /> </p>
 
