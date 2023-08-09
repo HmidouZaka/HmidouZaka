@@ -5,7 +5,10 @@
 <h3 align="center">My name is Zakaria Hmidou I am native Android Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/HmidouZaka/HmidouZaka/assets/94437384/b2fa5e6e-0097-4542-b95a-29a4b5a14d9d" />
 
-
+<div align="center">
+  <img align="left" alt="Coding" width="400" src="https://github.com/HmidouZaka/HmidouZaka/assets/94437384/b2fa5e6e-0097-4542-b95a-29a4b5a14d9d" />
+  <p align="right">I am an android developer</p>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmidouzaka&label=Profile%20views&color=0e75b6&style=flat" alt="hmidouzaka" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hmidouzaka" alt="hmidouzaka" /></a> </p>
