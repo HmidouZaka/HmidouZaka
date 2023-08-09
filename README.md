@@ -34,9 +34,9 @@ Thank you for reading</p>
 <p align="left">
 <a href="https://twitter.com/hmidouzakaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hmidouzakaria" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zakariahmidou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakariahmidou" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20842514/zakaria-hmidou?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20842514/zakaria-hmidou?tab=profile" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20842514/zakaria-hmidou?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20842514/zakaria-hmidou?tab=profile" height="30" width="40" /></a>
 <a href="https://instagram.com/_zakaria_hmidou_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_zakaria_hmidou_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/zakaria hmidou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zakaria hmidou" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC36VjUgVYSRdTgrz0c6FknQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zakaria hmidou" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
