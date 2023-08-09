@@ -9,7 +9,8 @@
  <img align="right" alt="Coding" width="400" src="https://github.com/HmidouZaka/HmidouZaka/assets/94437384/b2fa5e6e-0097-4542-b95a-29a4b5a14d9d" />
  <div align="left">
    <h3 >About Me</h3>
-   <p>I am </p>
+   <p>I am a dedicated Android developer with a strong proficiency in Kotlin, Java, and Jetpack Compose. With a passion for clean and efficient code, I specialize in creating engaging and user-friendly applications. My experience includes designing and implementing innovative features while ensuring optimal performance across various Android devices. I am committed to staying updated with the latest industry trends and technologies, allowing me to deliver high-quality and modern app experiences. Collaborative and detail-oriented, I thrive in team environments and am always eager to take on new challenges in the ever-evolving world of mobile development.
+Thank you for reading</p>
  </div>
 </div>
 
