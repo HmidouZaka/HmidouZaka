@@ -1,7 +1,7 @@
 
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
-<h3 align="center">Android Developer</h3>
+<h1 align="center">Android Developer</h1>
 <h3 align="center">My name is Zakaria Hmidou I am native Android Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/HmidouZaka/HmidouZaka/assets/94437384/b2fa5e6e-0097-4542-b95a-29a4b5a14d9d" />
 
